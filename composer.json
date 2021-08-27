@@ -1,6 +1,6 @@
 {
-    "name": "grupogen/block_mediagallery",
-    "type": "moodle-block",
+    "name": "grupogen/filter_mediagallery",
+    "type": "moodle-filter",
     "authors": [
       {
         "name": "Igor Figueiredo",
