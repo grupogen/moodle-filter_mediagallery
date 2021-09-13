@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2014012200;
+$plugin->version   = 2014091001;
 $plugin->requires  = 2013050100;
 $plugin->component = 'filter_mediagallery';
 $plugin->dependencies = array('mod_mediagallery' => 2014010400);
